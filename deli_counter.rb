@@ -18,6 +18,6 @@ end
 def take_a_number(deli, name)
   deli << name
   number = deli.length
-  puts "#{name} #{number}"
+  puts "Welcome, #{name} . You are number #{number} in line."
 
 end
