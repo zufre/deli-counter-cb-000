@@ -2,7 +2,7 @@
 
 def line(deli)
   deli.empty? ? puts "The line is currently empty." : puts deli
-  
+
 end
 
 def take_a_number(deli, name)
