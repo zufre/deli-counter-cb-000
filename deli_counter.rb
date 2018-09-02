@@ -9,7 +9,7 @@ def line(deli)
       current_line << " #{index}. #{name}"
     end
 
-    pust current_line
+    puts current_line
   end
 
 
