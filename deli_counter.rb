@@ -9,6 +9,6 @@ end
 def take_a_number(deli, name)
   deli << name
   number = deli.length
-    puts "#{name} #{number}"
-  
+  puts "#{name} #{number}"
+
 end
