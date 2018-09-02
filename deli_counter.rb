@@ -14,9 +14,9 @@ def line(deli)
 
 end
 
-def take_a_number(deli, name)
-  deli << name
-  number = deli.length
-  puts "#{name} #{number}"
-
-end
+# def take_a_number(deli, name)
+#   deli << name
+#   number = deli.length
+#   puts "#{name} #{number}"
+# 
+# end
