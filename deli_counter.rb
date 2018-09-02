@@ -6,9 +6,9 @@ def line(deli)
 
 end
 
-def take_an_number(deli, name)
-  deli << name 
-  deli.each_with_index do |name|
-    index +=1
-    puts "#{name} #{index}"
-  end
+def take_a_number(deli, name)
+  deli << name
+  number = deli.length
+    puts "#{name} #{number}"
+  
+end
