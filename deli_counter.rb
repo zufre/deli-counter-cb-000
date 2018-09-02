@@ -9,7 +9,7 @@ def line(deli)
       current_line << " 1.#{index} #{name}"
     end
     current_line
-  endß
+  end
 
 
 end
